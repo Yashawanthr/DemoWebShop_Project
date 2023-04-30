@@ -328,3 +328,8 @@
 [4] 11:41:52:  ShowStatusInfo: 'View Change History for Project finished'
 [3] 11:41:52: Task 'View Change History for Project' finished
 [4] 11:41:57:  ShowStatusInfo: 'Ready'
+[4] 11:43:04:  ShowStatusInfo: '1 object selected'
+[4] 11:43:04:  ShowStatusInfo: 'Ready'
+[4] 11:43:05:  ShowStatusInfo: '1 object selected'
+[3] 11:43:10: Closing Workspace!
+[3] 11:43:10: Log closed!
