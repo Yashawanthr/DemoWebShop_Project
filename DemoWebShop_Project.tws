@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\DemoWebShop_Project.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\DemoWebShop_Project\Repository\DemoWebShop_Project.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>MSSQLRepository</RepoClass>
+    <ConnectionData>031139008000000000000000004000011078045042075045178245113012008241015208141116012246112012119244139009014244113141008008114013014054048178118073044073076074044078181117073205205015079077010206200047136015040202207074077046177014205076177117076201205204011045078045050048180014040071229003000179170020071097000000000</ConnectionData>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a0ae2e8-eb43-8a5b-e515-feb68b2b9e2a</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>b4d32329-bf99-43eb-b3bc-db03c79ebf21</TCWorkspaceID>
+  <TCCommonRepositoryID>40fad0a3-0f04-411e-98f2-9c93e7252619</TCCommonRepositoryID>
+  <TCWorkspaceDescription />
+</TCWorkspace>
