@@ -3,7 +3,7 @@
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\DemoWebShop_Project.db</DatabasePathAndName>
-    <Database>C:\Tosca_Projects\Tosca_Workspaces\DemoWebShop_Project\Repository\DemoWebShop_Project.db</Database>
+    <Database>C:\Users\YashawanthR\OneDrive - DIGITAL BIZ SOLUTIONS PTE. LTD\Documents\GitHub\MultiUserWorkSpace\DemoWebShop_Project\Repository\DemoWebShop_Project.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />
